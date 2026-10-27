@@ -1,0 +1,52 @@
+IBRAHIM ASSHABIRIN
+Business Analyst | Product Manager | IT Support
+
+Tanah Bumbu, Kalimantan Selatan (72213), Indonesia | 081230737228
+ibrahimasshabirin00@gmail.com | www.linkedin.com/in/ibrahimasshabirin
+
+RINGKASAN
+Lulusan Sistem Informasi yang berorientasi pada hasil dari Universitas Merdeka Malang dengan IPK 3,79. Memiliki pengalaman kerja nyata selama 2 tahun sebagai IT Support di rumah sakit, dengan keahlian dalam troubleshooting perangkat keras (PC, CPU, printer, CCTV) dan pengelolaan sistem informasi berbasis database (SIMRS & BPJS). Memiliki kemampuan analisis, problem solving, dan komunikasi yang kuat, serta mampu bekerja secara individu maupun di dalam tim untuk mendukung kelancaran infrastruktur IT perusahaan.
+
+PENDIDIKAN
+UNIVERSITAS MERDEKA MALANG | Malang, Jawa Timur (September 2019 - Oktober 2023)
+Sarjana Sistem Informasi (S1) - IPK 3.79 / 4.00
+Judul Skripsi: Perancangan Prototipe UI/UX High Fidelity untuk Sistem Informasi Penjadwalan Diskopindag Kota Malang Menggunakan Metode Design Sprint
+
+Business Analyst & Product Strategy - dibimbing | Online (Mei 2026 - Januari 2027)
+Materi relevan: PRD, BRD, FSD, Product Management, Project Management, Business Analyst, Data Visualization, Riset Kualitatif & Kuantitatif, Business Needs, Product Roadmap, Prioritization Product, Stakeholder Management, Project Risk Management, Agile Scrum.
+
+PENGALAMAN KERJA
+IT Support - Kontrak (Mei 2024 - Mei 2026)
+RS. Marina Permata | Tanah Bumbu, Kalimantan Selatan
+- Menangani dan menyelesaikan 1-5 troubleshoot IT per hari, termasuk troubleshooting perangkat keras (printer, laptop, PC/CPU, mesin fotokopi) serta pemeliharaan jaringan dasar (Wifi, LAN, IP Conflict).
+- Menyediakan dukungan teknis perangkat lunak untuk instalasi Windows, Admin SIMRS, dan mengoperasikan BPJS (RS Online, SIRS Online).
+- Merancang antarmuka pengguna (UI) untuk Aplikasi Kunjungan dan Situs Web Resmi RS Marina Permata.
+- Melakukan inventarisasi perangkat komputer, CCTV, dan aset IT.
+- Melakukan pemasangan 30 CCTV & pemetaan jaringan CCTV di lingkungan RS. Marina Permata.
+- Melakukan konfigurasi Router & Access Point (TP-Link, Ruijie, Starlink).
+- Melakukan instalasi Ubuntu & install ulang Windows 10/11.
+- Melakukan pemeliharaan rutin perangkat inventaris IT setiap 3 bulan sekali.
+
+PENGALAMAN PROYEK
+MSIB Batch 2 | Social Economic Accelerator Lab (SEAL) | Malang (Maret 2022 - September 2022)
+Link Project: https://intip.in/ProjectSipede
+- Bertindak sebagai Scrum Master, Product Owner, dan Team Development dalam implementasi Agile Scrum.
+- Memfasilitasi sesi brainstorming tim 12 anggota menggunakan metode Design Thinking dan Sprint.
+- Membuat wireframe, UI high fidelity, dan prototipe 13 halaman (Login, Dashboard, Menu Aktivitas/Dokumentasi/Laporan).
+- Menentukan, memprioritaskan, dan menyepakati 8 product backlog bersama tim Scrum.
+- Mengadakan evaluasi dan Usability Testing bersama 10 staf Diskopindag Kota Malang.
+
+PENGHARGAAN
+Demo Day Final Project - Best Team (09 September 2022) untuk MVP Situs Web SIPeDe (Sistem Informasi Penjadwalan Diskopindag Kota Malang).
+
+KEAHLIAN
+Teknis: Hardware Troubleshooting (PC/CPU, Printer, Mesin Fotokopi, CCTV), Software Troubleshooting, Network Troubleshooting (LAN, WLAN, Router, Access Point, Konfigurasi IP, DNS, Gateway), Remote Desktop, Agile & Scrum, Design Thinking, Inventarisasi Aset, Design UI, Wireframe, Storyboard, User Journey, PRD (Product Requirement Document), Product Backlog, Roadmapping, User Flows, User Stories.
+Interpersonal: Problem Solving, Kerja Tim/Individu, Analisis Data, Komunikasi, Critical Thinking, Time Management.
+Software: Microsoft Office, Google Workspace, Figjam, Jira, Figma, Ruijie, Rustdesk, Anydesk, Miro.
+Bahasa: Bahasa Indonesia (Aktif), Bahasa Inggris (Basic).
+
+KURSUS & WORKSHOP
+Prakerja - BisaMahir (Mei 2024): Metodologi Pengembangan Perangkat Lunak - Validasi Perangkat Lunak - PRD.
+Prakerja - Skill Academy (Maret - April 2024): Dasar-Dasar Manajemen Proyek - Proses & Metode Manajemen Proyek - Perencanaan Uji Produk Digital, Validasi, & Pembuatan Dokumen (PRD) - Prototipe Produk.
+MySkills - MySkills Short Class (November - Desember 2023): Finding Product Market Fit - Product-Led Growth Fundamental.
+RevoU - RevoU Mini Course: Product Management (November - Desember 2023): Pengenalan Product Management - Product Management as a Strategic Role in a Company - Practical Simulation 1: Getting Started with Product Delivery.
